@@ -132,6 +132,7 @@ body a
 {
 	position: absolute;
 	right: 0px;
+	width: 405px;
 	display: inline-block;
 	border-radius: 35px;
 	background-color: #E5E4E2;
